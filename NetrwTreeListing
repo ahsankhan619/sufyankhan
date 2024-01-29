@@ -1,0 +1,17 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /home/ubuntu/sufyankhan/ii
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+sufyankhan/
+| .git/
+| d/
+| dddddd/
+| did/
+| hahaha/
+| ii/
+| file1
+| file2
